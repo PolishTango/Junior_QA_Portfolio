@@ -50,7 +50,9 @@ Welcome to my portfolio! This is my first big project diving into new technologi
 </p>
 
 See how the application works in practice:
+
 [Link to the Portfolio Page](https://daniel-fronczak.pl/)
+
 [Click here to watch the Project Overview](https://youtu.be/_v_ddbTG8UI)
 
 ---
