@@ -1,6 +1,6 @@
 # 🚀 Junior QA Portfolio
 
-Welcome to my portfolio! This project presents my skills in fullstack application development and test automation.
+Welcome to my portfolio! This is my first big project diving into new technologies and automation tools. Hope you like it!
 
 ---
 
@@ -50,6 +50,7 @@ Welcome to my portfolio! This project presents my skills in fullstack applicatio
 </p>
 
 See how the application works in practice:
+[Link to the Portfolio Page](https://daniel-fronczak.pl/)
 [Click here to watch the Project Overview](https://youtu.be/_v_ddbTG8UI)
 
 ---
