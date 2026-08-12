@@ -1,0 +1,35 @@
+// BaseUrl: https://daniel-fronczak.pl/api/orders
+
+// Get_Order_Validation
+
+{
+    "firstname": "Zamowienie przez postman",
+    "last_name": "Postman",
+    "address": "Postman",
+    "total_price": "6833",
+    "items": [
+        {
+            "id": 1,
+            "name": "RAM - Viper DDR5 32GB",
+            "price": 680,
+            "quantity": 1
+        }
+    ]
+}
+
+// Post_Incorrect_Order
+
+{
+    "firstname": "",
+    "last_name": "Postman",
+    "address": "Postman",
+    "total_price": "680",
+    "items": [
+        {
+            "id": 1,
+            "name": "RAM - Viper DDR5 32GB",
+            "price": 680,
+            "quantity": 1
+        }
+    ]
+}
