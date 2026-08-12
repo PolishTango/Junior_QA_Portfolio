@@ -53,7 +53,7 @@ See how the application works in practice:
 
 [Link to the Portfolio Page](https://daniel-fronczak.pl/)
 
-[Click here to watch the Project Overview](https://youtu.be/_v_ddbTG8UI)
+[Link to the Project Overview](https://youtu.be/_v_ddbTG8UI)
 
 ---
 
